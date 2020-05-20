@@ -996,6 +996,31 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageFacebookLogInOrSignUp" Key="{940E08C9-13F9-4032-9BF7-2E7124D8AE0A}" ParallelWalk="True">
+								<Image FileName="2075900649" Left="0" Top="103" Right="1920" Bottom="1040" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://www.facebook.com/" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="link" Key="{D9BAF7DC-0F1D-4788-B94B-A75765D6A056}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1227880741" Left="462" Top="154" Right="632" Bottom="170" />
+										<TypeInfo Item0="{393670EA-70C0-4C43-94F1-B20DA0A1FCFF}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Facebook" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -1053,6 +1078,9 @@
 				<Child Name="headerGh" Owner="{7EFF2FC3-4129-46F6-ACF3-3C1D67E94D15}">
 					<Child Name="textnodeGhUg" Owner="{513808B9-B87C-4CB7-B9C0-D3921774F271}" />
 				</Child>
+			</Child>
+			<Child Name="pageFacebookLogInOrSignUp" Owner="{940E08C9-13F9-4032-9BF7-2E7124D8AE0A}">
+				<Child Name="link" Owner="{D9BAF7DC-0F1D-4788-B94B-A75765D6A056}" />
 			</Child>
 		</Child>
 	</LogicalNodes>
