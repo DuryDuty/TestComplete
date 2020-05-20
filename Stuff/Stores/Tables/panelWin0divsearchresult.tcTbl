@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{F1D3EE30-C2A8-4AFF-801C-1D39E2C902F0}" version="14.0">
+	<Table>
+		<Source Object="Aliases.browser.pageAcademicPlanTable.framePtifrmtgtframe.formAcademicProgTbl.panelWin0divsearchresult">
+			<DataExtraction Type="OpticalTableRecognition" DetectionMode="ByCoordinates" SelectionPreference="NearestToCenter" HasHeader="True">
+				<Rectangle Left="0" Top="78" Right="1417" Bottom="413" />
+			</DataExtraction>
+		</Source>
+		<Columns>
+			<Column>Academic&#10;TAFEN TAFEN</Column>
+			<Column>Institution Academic&#10;00001&#10;00001</Column>
+			<Column>Program</Column>
+			<Column>Description&#10;TTPBFP0171&#10;TTPBFP0171-1-test123test123tes</Column>
+			<Column>Short TTPBFP017 Description UNKN Academic&#10;TTPBFP017 UNKN</Column>
+			<Column>Group Program RTOSS Sub-Type Program Statement Name of Attainment in Workplace Health and Safety Management&#10;Accredited Statement of Attainment in Workplace Health and Safety Management</Column>
+			<Column>National Code&#10;(blank)&#10;(blank)</Column>
+			<Column>Alternate Code&#10;TTPBFP0171 TTPBFP0171</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00002</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10047NAT-01101</Cell>
+				<Cell Type="String">10047NAT-0 UNKN</Cell>
+				<Cell Type="String">Accredited Certificate IV in Payroll Administration1</Cell>
+				<Cell Type="String">10047NAT</Cell>
+				<Cell Type="String">10047NAT-01V01-TEST</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00002</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10047NAT - 01V01 - TEST SC1</Cell>
+				<Cell Type="String">10047NAT - O UNKN</Cell>
+				<Cell Type="String">Accredited Certificate IV in Payroll Administration1</Cell>
+				<Cell Type="String">10047NAT</Cell>
+				<Cell Type="String">10047NAT-01V01-TEST</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00003</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10048NAT - 01101A_update</Cell>
+				<Cell Type="String">10048NAT - O UNKN</Cell>
+				<Cell Type="String">Non Nat Diploma of Payroll Management</Cell>
+				<Cell Type="String">10048NAT</Cell>
+				<Cell Type="String">10048NAT-01101A</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00003</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10048NAT - 01101_update</Cell>
+				<Cell Type="String">10048NAT - O UNKN</Cell>
+				<Cell Type="String">Accredited Diploma of Payroll Management</Cell>
+				<Cell Type="String">10048NAT</Cell>
+				<Cell Type="String">10048NAT-01101A</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00004</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10052NAT-01101</Cell>
+				<Cell Type="String">10052NAT-O AGRIB</Cell>
+				<Cell Type="String">Accredited Advanced Diploma of Health Science (Soft Tissue Therapy)</Cell>
+				<Cell Type="String">10052NAT</Cell>
+				<Cell Type="String">10052NAT-01101</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN&#10;TAFEN</Cell>
+				<Cell Type="String">00004&#10;00005</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10052NAT-01101_&#10;10076NAT-01101</Cell>
+				<Cell Type="String">10052NAT-0 UNKN&#10;10076NAT-O CARLE</Cell>
+				<Cell Type="String">Accredited Advanced Diploma of Health Science (Soft Tissue Therapy)&#10;Accredited Certificate Il in Foundations for Vocational and Further Study</Cell>
+				<Cell Type="String">10052NAT&#10;10076NAT</Cell>
+				<Cell Type="String">10052NAT-01101&#10;10076NAT-01101</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00005</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10076NAT-01V01</Cell>
+				<Cell Type="String">10076NAT-O UNKN</Cell>
+				<Cell Type="String">Accredited Certificate Il in Foundations for Vocational and Further Study</Cell>
+				<Cell Type="String">10076NAT</Cell>
+				<Cell Type="String">10076NAT-01001</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00006</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10076NAT-01102</Cell>
+				<Cell Type="String">10076NAT-O UNKN</Cell>
+				<Cell Type="String">Accredited Certificate Il in Foundations for Vocational and Further Study</Cell>
+				<Cell Type="String">10076NATX</Cell>
+				<Cell Type="String">10076NAT-01102</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00007</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10076NAT-01103</Cell>
+				<Cell Type="String">10076NAT-0 UNKN</Cell>
+				<Cell Type="String">Accredited Certificate Il in Foundations for Vocational and Further Study</Cell>
+				<Cell Type="String">10076NAT</Cell>
+				<Cell Type="String">10076NAT-01103</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00008</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10077NAT-01V01TEST</Cell>
+				<Cell Type="String">10077NAT-O UNKN</Cell>
+				<Cell Type="String">Accredited Certificate II in Skills for Work and Study</Cell>
+				<Cell Type="String">10077NAT</Cell>
+				<Cell Type="String">10077NAT-01V01TEST</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00009</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10077NAT-01102</Cell>
+				<Cell Type="String">10077NAT-O UNKN</Cell>
+				<Cell Type="String">Accredited Certificate Il in Skills for Work and Study</Cell>
+				<Cell Type="String">10077NAT</Cell>
+				<Cell Type="String">10077NAT-01V02_test</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">00009</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10077NAT-01V02_test</Cell>
+				<Cell Type="String">10077NAT-0 UNKN</Cell>
+				<Cell Type="String">Accredited Certificate II in Skills for Work and Study</Cell>
+				<Cell Type="String">10077NAT</Cell>
+				<Cell Type="String">10077NAT-01V02_test</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN&#10;TAFEN&#10;TAFEN</Cell>
+				<Cell Type="String">0000A&#10;0000B&#10;0000C</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">10077NAT-01103&#10;10078NAT-01101&#10;10078NAT-01102</Cell>
+				<Cell Type="String">10077NAT-O 10078NAT-O UNKN UNKN&#10;10078NAT-O UNKN</Cell>
+				<Cell Type="String">Accredited Certificate Il in Skills for Work and Study&#10;Accredited Accredited Certificate Certificate I I in in Basic Basic English English Language Language Skills Skills</Cell>
+				<Cell Type="String">10077NAT&#10;10078NAT&#10;10078NAT</Cell>
+				<Cell Type="String">10077NAT-01103&#10;10078NAT-01101&#10;10078NAT-01V02</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">TAFEN</Cell>
+				<Cell Type="String">ՈՈՈՈՃ</Cell>
+				<Cell Type="String"></Cell>
+				<Cell Type="String">1007ONAT.01101</Cell>
+				<Cell Type="String">10070NAT. TINKN</Cell>
+				<Cell Type="String">Accredited Certificato Il in Enundation Englich I annuano Skrillo</Cell>
+				<Cell Type="String">1007ANAT</Cell>
+				<Cell Type="String">1007ONAT.N1101</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

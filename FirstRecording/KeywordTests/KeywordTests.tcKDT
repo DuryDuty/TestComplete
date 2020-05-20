@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="Login" key="{E2706733-76F5-4009-A9FD-9A3E16975347}" path="Login.tcKDTest" />
+		<child name="NavigateMenus" key="{628BC265-FCC1-4A93-9DFB-64AAC609DE9F}" path="NavigateMenus.tcKDTest" />
+		<child name="ClickNavigator" key="{6F38483F-201C-4A27-9312-67E3A4FA9DD6}" path="ClickNavigator.tcKDTest" />
+		<child name="Ebay" key="{3826D7B7-0AE2-4812-8917-FD4A9CA62136}" path="Ebay.tcKDTest" />
+	</children>
+</Root>
