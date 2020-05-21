@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
-	<children>
-		<child name="Google" key="{33001B51-7264-4AAC-B5EF-408D91C5A537}" path="Google.tcKDTest" />
-		<child name="Test2" key="{AAD1DFF9-9F3F-4C19-8395-474529D59482}" path="Test2.tcKDTest" />
-	</children>
+	<children />
 </Root>
