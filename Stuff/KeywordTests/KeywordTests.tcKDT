@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
-	<children />
+	<children>
+		<folder name="Actions">
+			<child name="OpenAcademicPlan" key="{BDB619EC-372B-4A53-A612-7C7954A593DD}" path="OpenAcademicPlan.tcKDTest" />
+			<child name="OpenAcademicProgram" key="{52F2F78A-CC9C-42DD-BA49-C7ECBF924888}" path="OpenAcademicProgram.tcKDTest" />
+			<child name="EnterPogramDetails" key="{25554AA8-4078-43FB-93BC-F69187C24A7D}" path="EnterPogramDetails.tcKDTest" />
+		</folder>
+		<folder name="Tests">
+			<child name="DoTest_1" key="{C3EE47AF-4DC3-4E79-8AFE-9F99DD58D9B5}" path="DoTest_1.tcKDTest" />
+		</folder>
+	</children>
 </Root>
